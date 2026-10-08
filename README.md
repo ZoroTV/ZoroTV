@@ -2,59 +2,66 @@
 
 **Founder & Product Builder — [DataVista Studio](https://datavista.studio/)**
 
-I build commercial digital products across **data, media technology, SaaS, broadcasting, education, financial intelligence, monitoring, and business systems**.
+I build and operate commercial digital products across **data, monitoring, media technology, SaaS, broadcasting, education, financial intelligence, and business systems**.
 
-## Selected products
+> DataVista turns information flow into useful products, monitoring systems, dashboards, alerts, and operational tools.
 
-| Product | Focus | Access |
-|---|---|---|
-| [961.menu](https://961.menu/) | Restaurant technology, digital menus, ordering and POS-oriented workflows | Product |
-| [Al Mayadeen Talk](https://meet.almayadeen.online/) | Browser-based broadcast, interviews, SRT/hardware sources and live-production workflows | Product |
-| [SATR Academy](https://satr.academy/) | Bilingual learning platform and LMS | Product |
-| [Conscious Woman](https://cwassociation.org/) | Bilingual publishing, community and member platform | Product |
-| Economy Desk | Financial markets, commodities, regional indicators and economic intelligence | Product |
-| [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept | Public case study |
+## Flagship work
 
-## News Monitoring & Intelligence
+| Product / Platform | What it does |
+|---|---|
+| [961.menu](https://961.menu/) | Restaurant and food-business platform for digital presence, menus, products, and customer experience |
+| [SATR Academy](https://satr.academy/) | Bilingual learning and academic-management platform |
+| [Al Mayadeen Talk](https://meet.almayadeen.online/) | Browser-based professional interview and live-production workspace |
+| [Conscious Woman](https://cwassociation.org/) | Bilingual publishing, community, opportunities, and member platform |
+| Economy Desk | Financial markets, commodities, regional indicators, and economic intelligence |
+| [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept |
 
-DataVista operates a live monitoring network built around continuous source collection, organization, regional context, and newsroom-friendly discovery.
+## DataVista News Monitoring Network
 
-**11 live observatories:**
+A live monitoring ecosystem for continuous source collection, organization, regional context, and fast editorial discovery.
+
+**11 live observatories**
+
 General · United States · Arab World · Russia · Iran · Pakistan · Hebrew Media · Lebanon · Iraq · Africa · News Agencies
 
-Also included:
+Also includes:
+
 - **Flash News — Arabic Sources**
 - Regional and source-based monitoring
-- Continuously growing archived news datasets
 - Source intake and verification workflows
-- Monitoring interfaces designed for fast editorial use
+- Large continuously growing news archives
+- Live monitoring interfaces for editorial and research use
 
-→ [Explore DataVista monitoring](https://datavista.studio/)
+→ [Explore the monitoring network](https://datavista.studio/)
 
-## Other DataVista work
+## More DataVista products & work
 
-- **DataVista Stream** — news, signals and information workspace
+- **DataVista Tools** — PDF, image, text, SEO, and AI utilities
+- **DataVista Stream** — workspace for news, signals, and information
 - **IQ Data** — structured data and information platform
 - **RESLANCO** — B2B wholesale ordering platform
 - **Fatima Fattouni Archive** — living digital archive project
-- **DataVista Tools** — practical PDF, image, text, SEO and AI utilities
+- **Flash News — Arabic Sources** — fast Arabic-source news monitoring
 
-## What I work on
+## Focus
 
-**Data platforms · News monitoring · Media intelligence · SaaS · Media & Broadcast Tech · Financial Intelligence · Education · Commerce · POS-oriented systems · AR/EN products · White-label platforms**
+**Data Platforms · News Monitoring · Media Intelligence · SaaS · Broadcast Technology · Financial Intelligence · Education · Commerce · POS-oriented Systems · AR/EN Products · White-label Platforms**
 
-## How I build
+## Commercial model
 
-Products are designed for **real operations, commercial use, maintainability, security, and long-term ownership**.
+Selected products can be developed or offered through:
 
-Public repositories are used selectively for portfolio material, technical references, and case studies. **Commercial application source code, infrastructure, credentials, private integrations, production data, and protected business logic remain private.**
+**Licensing · White-label deployment · Custom implementation · Product partnerships · Data products · Monitoring solutions · Technical collaboration**
 
-## Work with DataVista
+## Source & IP policy
 
-Open to selected **product partnerships, licensing, white-label deployments, custom platforms, monitoring solutions, data products, and technical collaborations**.
+Public repositories are used selectively for **portfolio material, case studies, reusable public work, and technical references**.
 
-→ [datavista.studio](https://datavista.studio/)
+**Commercial source code, infrastructure, credentials, private integrations, production data, internal tooling, and protected business logic remain private.**
+
+→ [DataVista Studio](https://datavista.studio/)
 
 ---
 
-<sub>Portfolio material shown here does not imply that proprietary products are open source.</sub>
+<sub>Public portfolio material does not imply that proprietary products are open source.</sub>
