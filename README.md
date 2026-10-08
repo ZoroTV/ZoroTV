@@ -54,6 +54,12 @@ Selected products can be developed or offered through:
 
 **Licensing · White-label deployment · Custom implementation · Product partnerships · Data products · Monitoring solutions · Technical collaboration**
 
+## Portfolio policy
+
+Only the projects explicitly listed above should be treated as part of my **selected professional portfolio**.
+
+Other public repositories on this account may include experiments, templates, references, legacy work, or third-party technical material and should not be interpreted as DataVista products unless stated otherwise.
+
 ## Source & IP policy
 
 Public repositories are used selectively for **portfolio material, case studies, reusable public work, and technical references**.
