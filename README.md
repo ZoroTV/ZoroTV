@@ -92,6 +92,17 @@ Also includes:
 - **Fatima Fattouni Archive** — living digital archive project
 - **Flash News — Arabic Sources** — fast Arabic-source news monitoring
 
+## Projects in Study / Experimental
+
+These projects are **under study, prototyping, or active experimentation** and are shown separately from production-ready products.
+
+- **TV Platform** — exploratory work around a broader television / media platform concept
+- **Rasd 1** — experimental monitoring workspace → [datavista.studio/rasd1](https://datavista.studio/rasd1)
+- **LiveTV-9** — live-TV and multi-source viewing experiments
+- **MultiViewer** — multi-feed / multi-screen viewing concept for media monitoring and production workflows
+
+These projects may change substantially before any commercial release. Public presentation does not imply that source code or production infrastructure is open.
+
 ## Focus
 
 **Data Platforms · News Monitoring · Media Intelligence · SaaS · Broadcast Technology · Financial Intelligence · Education · Commerce · POS-oriented Systems · AR/EN Products · White-label Platforms**
