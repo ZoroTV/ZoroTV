@@ -1,56 +1,36 @@
 # Arslan · DataVista
 
-**Founder & Product Builder at [DataVista Studio](https://datavista.studio/)**
+**Founder & Product Builder — [DataVista Studio](https://datavista.studio/)**
 
-I build and operate digital products at the intersection of **data, media technology, SaaS, business systems, and interactive web platforms**.
+I build commercial digital products across **data, media technology, SaaS, broadcasting, education, financial intelligence, and business systems**.
 
-My work focuses on turning complex operational ideas into usable products — from data-driven platforms and business tools to broadcasting, education, community, and commerce systems.
+## Selected products
 
-## Selected work
+| Product | Focus | Access |
+|---|---|---|
+| [961.menu](https://961.menu/) | Restaurant technology, digital menus, ordering and POS-oriented workflows | Product |
+| [Al Mayadeen Talk](https://meet.almayadeen.online/) | Browser-based broadcast, interviews, SRT/hardware sources and live-production workflows | Product |
+| [SATR Academy](https://satr.academy/) | Bilingual learning platform and LMS | Product |
+| [Conscious Woman](https://cwassociation.org/) | Bilingual publishing, community and member platform | Product |
+| Economy Desk | Financial markets, commodities, regional indicators and economic intelligence | Product |
+| [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept | Public case study |
 
-### [DataVista Studio](https://datavista.studio/)
-Independent product and digital technology studio building data platforms, business systems, interactive products, and specialized digital infrastructure.
+## What I work on
 
-### [961.menu](https://961.menu/)
-A restaurant and hospitality technology product focused on digital menus, operations, ordering, and the wider POS ecosystem.
+**Data platforms · SaaS · Media & Broadcast Tech · Financial Intelligence · Education · Commerce · POS-oriented systems · AR/EN products · White-label platforms**
 
-### [SATR Academy](https://satr.academy/)
-A bilingual learning platform built around structured educational experiences, administration, accounts, and scalable course delivery.
+## How I build
 
-### [Conscious Woman](https://cwassociation.org/)
-A bilingual community and publishing platform combining editorial content, opportunities, submissions, member services, and digital community tools.
+Products are designed for **real operations, commercial use, maintainability, security, and long-term ownership**.
 
-### [Al Mayadeen Talk](https://meet.almayadeen.online/)
-A browser-based media and broadcasting workspace for professional interviews, live production workflows, hardware/SRT sources, preview and program operations.
+Public repositories are used selectively for portfolio material, technical references, and case studies. **Commercial application source code, infrastructure, credentials, private integrations, production data, and protected business logic remain private.**
 
-### Economy Desk
-A bilingual financial and economic intelligence experience covering markets, commodities, regional indicators, data visualization, and continuously evolving market-monitoring tools.
+## Work with DataVista
 
-## What I build
+Open to selected **product partnerships, licensing, white-label deployments, custom platforms, data products, and technical collaborations**.
 
-- Data & intelligence platforms
-- SaaS products and internal business systems
-- Media, broadcast and live-production technology
-- Financial and market-monitoring interfaces
-- Education and learning platforms
-- Commerce, restaurant and POS-oriented products
-- Bilingual Arabic / English digital experiences
-- White-label and self-hosted product systems
-
-## Product approach
-
-I care about products that are **useful, commercially viable, maintainable, secure, and built for real operations**.
-
-Most commercial source code and infrastructure remain private. Public repositories and case studies are intentionally limited to material that can be shared safely.
-
-## Commercial work
-
-I am open to selected:
-
-**Product partnerships · Licensing · White-label deployments · Custom platforms · Data products · Technical collaborations**
-
-For business inquiries, visit **[DataVista Studio](https://datavista.studio/)**.
+→ [datavista.studio](https://datavista.studio/)
 
 ---
 
-<sub>Selected work and public material shown here do not imply that proprietary application source code is open source. Commercial code, infrastructure, credentials, private integrations, and protected business logic remain private.</sub>
+<sub>Portfolio material shown here does not imply that proprietary products are open source.</sub>
