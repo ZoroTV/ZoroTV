@@ -42,9 +42,28 @@ The platform is designed as a **multi-business product**, starting with food bus
 
 **Commercial source code and production infrastructure are private.**
 
+## Featured: Al Mayadeen Talk
+
+**Al Mayadeen Talk** is a browser-based professional media workspace for interviews, live contribution, and broadcast-oriented production workflows.
+
+Core capabilities include:
+
+- Browser interview rooms
+- Professional preview / program workflow
+- SRT source integration
+- Hardware-source workflows
+- Saved source connections
+- Live production controls
+- Media-oriented operational UX
+- Bilingual production environment
+
+→ [Open Al Mayadeen Talk](https://meet.almayadeen.online/)
+
+**Production source code, infrastructure, credentials, and private broadcast integrations remain private.**
+
 ## DataVista News Monitoring Network
 
-A live monitoring ecosystem for continuous source collection, organization, regional context, and fast editorial discovery.
+A live **media-monitoring and news-intelligence ecosystem** for continuous source collection, organization, regional context, rapid discovery, and editorial research.
 
 **11 live observatories**
 
@@ -57,6 +76,10 @@ Also includes:
 - Source intake and verification workflows
 - Large continuously growing news archives
 - Live monitoring interfaces for editorial and research use
+
+### Monitoring use cases
+
+**Newsrooms · Researchers · Media monitoring · Regional intelligence · Source tracking · Breaking-news discovery · Archive research**
 
 → [Explore the monitoring network](https://datavista.studio/)
 
