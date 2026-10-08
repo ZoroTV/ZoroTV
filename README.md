@@ -2,7 +2,7 @@
 
 **Founder & Product Builder — [DataVista Studio](https://datavista.studio/)**
 
-I build commercial digital products across **data, media technology, SaaS, broadcasting, education, financial intelligence, and business systems**.
+I build commercial digital products across **data, media technology, SaaS, broadcasting, education, financial intelligence, monitoring, and business systems**.
 
 ## Selected products
 
@@ -15,9 +15,33 @@ I build commercial digital products across **data, media technology, SaaS, broad
 | Economy Desk | Financial markets, commodities, regional indicators and economic intelligence | Product |
 | [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept | Public case study |
 
+## News Monitoring & Intelligence
+
+DataVista operates a live monitoring network built around continuous source collection, organization, regional context, and newsroom-friendly discovery.
+
+**11 live observatories:**
+General · United States · Arab World · Russia · Iran · Pakistan · Hebrew Media · Lebanon · Iraq · Africa · News Agencies
+
+Also included:
+- **Flash News — Arabic Sources**
+- Regional and source-based monitoring
+- Continuously growing archived news datasets
+- Source intake and verification workflows
+- Monitoring interfaces designed for fast editorial use
+
+→ [Explore DataVista monitoring](https://datavista.studio/)
+
+## Other DataVista work
+
+- **DataVista Stream** — news, signals and information workspace
+- **IQ Data** — structured data and information platform
+- **RESLANCO** — B2B wholesale ordering platform
+- **Fatima Fattouni Archive** — living digital archive project
+- **DataVista Tools** — practical PDF, image, text, SEO and AI utilities
+
 ## What I work on
 
-**Data platforms · SaaS · Media & Broadcast Tech · Financial Intelligence · Education · Commerce · POS-oriented systems · AR/EN products · White-label platforms**
+**Data platforms · News monitoring · Media intelligence · SaaS · Media & Broadcast Tech · Financial Intelligence · Education · Commerce · POS-oriented systems · AR/EN products · White-label platforms**
 
 ## How I build
 
@@ -27,7 +51,7 @@ Public repositories are used selectively for portfolio material, technical refer
 
 ## Work with DataVista
 
-Open to selected **product partnerships, licensing, white-label deployments, custom platforms, data products, and technical collaborations**.
+Open to selected **product partnerships, licensing, white-label deployments, custom platforms, monitoring solutions, data products, and technical collaborations**.
 
 → [datavista.studio](https://datavista.studio/)
 
