@@ -10,12 +10,37 @@ I build and operate commercial digital products across **data, monitoring, media
 
 | Product / Platform | What it does |
 |---|---|
-| [961.menu](https://961.menu/) | Restaurant and food-business platform for digital presence, menus, products, and customer experience |
+| [961.menu](https://961.menu/) | Digital commerce platform for Lebanese businesses: storefront, menu/catalog, QR, ordering, WhatsApp intake, live dashboard, kitchen workflow, delivery operations, staff access, analytics and merchant discovery |
 | [SATR Academy](https://satr.academy/) | Bilingual learning and academic-management platform |
 | [Al Mayadeen Talk](https://meet.almayadeen.online/) | Browser-based professional interview and live-production workspace |
 | [Conscious Woman](https://cwassociation.org/) | Bilingual publishing, community, opportunities, and member platform |
 | Economy Desk | Financial markets, commodities, regional indicators, and economic intelligence |
 | [GuestCall](https://github.com/ZoroTV/guestcall) | Media guest discovery and matching concept |
+
+## Featured: 961.menu
+
+**961.menu** is a commercial platform built to help businesses in Lebanon launch and operate a complete digital presence without technical experience.
+
+It brings together:
+
+- Dedicated business page and discoverable listing
+- Digital menu / product catalog
+- QR-based access and ordering
+- WhatsApp + dashboard order intake
+- Live merchant dashboard
+- Kitchen order screen
+- Delivery and driver operations
+- Staff accounts and permissions
+- Reporting, sales insights, and product performance
+- Custom-domain support
+- Interactive demo environment
+- Partner / recurring-commission model
+
+The platform is designed as a **multi-business product**, starting with food businesses and structured for broader categories over time.
+
+→ [Visit 961.menu](https://961.menu/) · [Try the demo](https://961.menu/demo/)
+
+**Commercial source code and production infrastructure are private.**
 
 ## DataVista News Monitoring Network
 
